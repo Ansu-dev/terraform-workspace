@@ -7,3 +7,4 @@ terraform.tfvars
 .tfplan
 .terraform/providers/
 .terraform/plugins/
+terraform.tfstate.d
